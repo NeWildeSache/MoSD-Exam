@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:title>Archive of historical data on number of tests and positivity rate for COVID-19 in Germany</dc:title>
+<dc:creator>Dominic Wild</dc:creator>
+<dc:subject>historical data on the testing volume for COVID-19 in EU</dc:subject>
+<dc:description>columns: tests_done, positivity_rate, year, week, time
+tests_done: number of tests done within week
+positivity rate: 100 x number of new confirmed cases/number of tests done per week
+year: year of sample
+week: week of sample
+time: number derived from week and year, comparable</dc:description>
+<dc:contributor>European Centre for Disease Prevention and Control</dc:contributor>
+<dc:date>01.08.2024</dc:date>
+<dc:type>dataset</dc:type>
+<dc:format>csv</dc:format>
+<dc:identifier>https://github.com/NeWildeSache/MoSD-Exam/blob/master/data/preprocessed_data/germany_weekly_testing_data.csv</dc:identifier>
+<dc:source>https://www.ecdc.europa.eu/sites/default/files/documents/weekly_testing_data_EUEEAUK_2022-09-15.xlsx</dc:source>
+<dc:language>english</dc:language>
+<dc:coverage>2020,W10-2022,W33, Germany</dc:coverage>
+<dc:rights>CC0</dc:rights>

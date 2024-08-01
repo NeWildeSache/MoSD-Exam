@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:title>Archive of historical data on the testing volume for COVID-19</dc:title>
+<dc:creator>European Centre for Disease Prevention and Control</dc:creator>
+<dc:subject>historical data on the testing volume for COVID-19 in EU</dc:subject>
+<dc:description>- columns: country, country code, year week, level, region, region name, new cases, tests done, population, testing rate, positivity rate, testing data source
+</dc:description>
+<dc:description>positivity rate: 100 x number of new confirmed cases/number of tests done per week</dc:description>
+<dc:description>tests_done: number of tests done within week</dc:description>
+<dc:description>level: Whether national or subnational (regional) level data</dc:description>
+<dc:description>region: 2-letter ISO country code where level is 
+    national.  Nuts code or alternative 
+    administrative level (determined by 
+    Member States) for subnational region</dc:description>
+<dc:description>region_name: Country name where level is national or 
+    name of region where level is 
+    subnational</dc:description>
+<dc:description>testing data source: Country API 
+    Country GitHub 
+    Country website 
+    Manual webscraping 
+    Other 
+    Survey 
+    TESSy: data provided directly by 
+    Member States to ECDC via TESSy</dc:description>
+<dc:publisher>European Centre for Disease Prevention and Control</dc:publisher>
+<dc:date>20 Sep 2022</dc:date>
+<dc:type>dataset</dc:type>
+<dc:format>xlsx</dc:format>
+<dc:identifier>https://www.ecdc.europa.eu/sites/default/files/documents/weekly_testing_data_EUEEAUK_2022-09-15.xlsx</dc:identifier>
+<dc:source>https://www.ecdc.europa.eu/sites/default/files/documents/weekly_testing_data_EUEEAUK_2022-09-15.xlsx</dc:source>
+<dc:language>english</dc:language>
+<dc:coverage>European Countries</dc:coverage>
+<dc:rights>Information and documents made available on ECDC web pages and for which ECDC owns the copyright are public and may be reproduced, adapted and/or distributed, totally or in part, irrespective of the means and/or the formats used, provided that ECDC is always acknowledged as the original source of the material. Such acknowledgement must be included in each copy of the material. </dc:rights>
