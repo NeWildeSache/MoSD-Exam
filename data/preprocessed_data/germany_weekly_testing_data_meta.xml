@@ -13,7 +13,7 @@ time: number derived from week and year, comparable</dc:description>
 <dc:date>01.08.2024</dc:date>
 <dc:type>dataset</dc:type>
 <dc:format>csv</dc:format>
-<dc:identifier>https://github.com/NeWildeSache/MoSD-Exam/blob/master/data/preprocessed_data/germany_weekly_testing_data.csv</dc:identifier>
+<dc:identifier>https://zenodo.org/doi/10.5281/zenodo.13172105</dc:identifier>
 <dc:source>https://www.ecdc.europa.eu/sites/default/files/documents/weekly_testing_data_EUEEAUK_2022-09-15.xlsx</dc:source>
 <dc:language>english</dc:language>
 <dc:coverage>2020,W10-2022,W33, Germany</dc:coverage>

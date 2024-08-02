@@ -1,7 +1,10 @@
 # Management Of Scientific Data - Exam Project
 
-Exam-Project for the university course "Management of Scientific Data". The task was to come up with a research question, find a suitable dataset, examine, process and analyze the data and perform good data management along the way.
-The research question of this project is: Was there a correlation between the positivity rate and number of tests in Germany?
+This is an Exam-Project for the university course _Management of Scientific Data_ at the Friedrich Schiller University in Jena. 
+
+The task was to come up with a research question, find a suitable dataset, examine, process and analyze the data and perform correct data management along the way. The research question of this project is: _Was there a correlation between the positivity rate and number of tests in Germany?_
+
+The repository can also be found at [Zenodo](https://zenodo.org/doi/10.5281/zenodo.13172105).
 
 ## File Structure
 
@@ -33,4 +36,4 @@ All data is licensed under a [CC0](https://creativecommons.org/publicdomain/zero
 
 ## Questions
 
-For further questions or suggestions please contact the repository owner via GitHub([NeWildeSache](https://github.com/User3318)) or mail ([dominic.wild@uni-jena.de])
+For further questions or suggestions please contact the repository owner via GitHub([NeWildeSache](https://github.com/NeWildeSache)) or mail: dominic.wild@uni-jena.de
