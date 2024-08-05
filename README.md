@@ -32,7 +32,7 @@ The repository can also be found at [Zenodo](https://zenodo.org/doi/10.5281/zeno
 
 ## License
 
-All data is licensed under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt) license and all source code is licensed under a non-copyleft [MIT](https://opensource.org/license/mit) license.
+All data is licensed under a [CC BY](https://creativecommons.org/licenses/by/4.0/) license and all source code is licensed under a non-copyleft [MIT](https://opensource.org/license/mit) license.
 
 ## Questions
 
