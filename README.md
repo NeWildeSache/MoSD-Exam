@@ -1,4 +1,4 @@
-# Management Of Scientific Data - Exam Project
+# Management Of Scientific Data - Exam Project (archived repository)
 
 This is an Exam-Project for the university course _Management of Scientific Data_ at the Friedrich Schiller University in Jena. 
 
